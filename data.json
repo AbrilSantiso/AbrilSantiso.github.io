@@ -1,0 +1,16 @@
+[
+ {
+    "id": 1,
+    "title": "Andie, Mike y su BubbleCam",
+    "img": "https://i.imgur.com/r6cWbcA.png",
+    "content": "Andie y Mike son una pareja estadounidense amantes de las burbujas que desde el año 2001 instalaron un burbujero en su casa con una gran peculiaridad: una cámara de seguridad stremea las 24hs su patio y está conectado a un sistema que te permite mediante una página web, tirar burbujas en cualquier momento del día apretando un simple botón. Podés probarlo ingresando a su sitio web <a href='https://andieandmike.org/bubblecam/'>https://andieandmike.org/bubblecam/</a> <br> También podes ver una tabla con el ranking de los paises donde más se lanzaron burbujas y la cantidad de intentos acá: <a href='https://andieandmike.org/bubbles-by-country/'>Estadísticas.</a> <br> El que si está un poco hinchado los huevos de las burbujas es el perro de Andie y Mike",
+    "tags": ["Locuras"]
+ },
+ {
+   "id": 2,
+   "title": "La tierra en este momento desde el espacio",
+   "img": "https://i.imgur.com/Uc46Dg5.jpg",
+   "content": "La ISS (International Space Station) de la NASA tiene un satélite que desde el año 2000 trasmite las 24hs del día en tiempo real imágenes del planeta tierra desde el espacio. Podés verlo buscando 'NASA Live Stream - Earth From Space' en YouTube. Existen varias teorías conspirativas al rededor como <a href='https://www.iheart.com/content/2020-04-20-ufo-spotted-on-iss-live-feed-nasa-allegedly-immediately-cuts-away/'>esta</a> que afirma que la NASA cortó la transmisión luego de que el satélite captara luces extrañas. Anyways, también tiene una música muy relajante de fondo y es un planazo ponerte a verlo despues de fumarte alguito *guiño guiño*",
+   "tags": ["Ciencia"]
+}     
+]
