@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
 :root {
   --primary-bg-color:  #121212;
   --primary-details-color: rgb(98, 223, 115);
@@ -7,12 +9,17 @@
 
 body {
   margin: 0;
-  font-family: sans-serif, "Roboto";
+  font-family: 'Roboto Slab', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  scroll-behavior: smooth;
-  height: 100vh;
+  scroll-behavior:smooth;
   background-color: var(--primary-bg-color);
+  letter-spacing: 1px;
+}
+
+main {
+  min-height: 80vh;
+  margin-bottom: 50px;
 }
 
 a {
