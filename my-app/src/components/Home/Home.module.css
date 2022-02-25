@@ -20,12 +20,6 @@
   font-size: 18px;
 }
 
-.card_cardContainer {
-  width: 40%;
-  background-color: aqua;
-  height: 400px;
-}
-
 @media screen and (max-width: 768px) {
   .home_welcomeTitle {
     width: 80%;

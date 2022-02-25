@@ -1,18 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 
 :root {
-  --primary-bg-color:  #121212;
+  --primary-bg-color: #121212;
+  --secondary-bg-color: #1d1d1d;
   --primary-details-color: rgb(98, 223, 115);
-  --primary-shadow: 	0 0 5px rgb(212, 255, 221),
-                      0 0 20px rgb(98, 223, 115);
+  --primary-shadow: 0 0 5px rgb(212, 255, 221), 0 0 20px rgb(98, 223, 115);
+  --secondary-shadow: 0 0 5px rgb(115, 204, 134), 0 0 20px rgb(98, 223, 115),
+    0 0 70px rgb(39, 165, 56);
 }
 
 body {
   margin: 0;
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: "Montserrat", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  scroll-behavior:smooth;
+  scroll-behavior: smooth;
   background-color: var(--primary-bg-color);
   letter-spacing: 1px;
 }
@@ -39,5 +41,3 @@ a {
 		0 0 50px rgb(253, 185, 255)
 }
 */
-
-
