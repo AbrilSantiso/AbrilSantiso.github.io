@@ -11,6 +11,8 @@
     margin: 15px 0;
     font-size: 14px;
     transition: 0.2s;
+    animation: fade 0.8s ease-in both;
+    animation-delay: 1.2s;
 }
 
 .randomButton:hover {
@@ -18,4 +20,13 @@
     background-color: var( --primary-bg-color);
     border: 1px solid var(--primary-details-color);
     box-shadow: var(--primary-shadow);
+}
+
+@keyframes fade {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
 }
