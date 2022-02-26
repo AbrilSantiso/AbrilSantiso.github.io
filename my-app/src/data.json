@@ -159,5 +159,54 @@
    "img": "https://i.imgur.com/hM23rBN.jpg",
    "content": "Los osos polares no son realmente blancos, tienen la piel negra (mira su nariz) y está cubierta de pelo transparente, libre de pigmentos. Cada cabello dispersa y refleja la luz visible, esto hace que parezcan de color blanco, aunque no lo son.",
    "tags": ["Ciencia", "Animales"]
+},
+{
+   "id": 24,
+   "title": "La napia",
+   "img": "https://i.imgur.com/wY6yLUt.jpg",
+   "content": "No respiramos por los dos agujeros de la nariz a la vez. Siempre respiramos por uno solo que se va alternando entre ambos. El único momento en que respiramos por las dos fosas es cuando se alterna el ciclo de una fosa a la otra, proceso que dura unos segundos.",
+   "tags": ["Ciencia", "Biologia"]
+},
+{
+   "id": 25,
+   "title": "Chimichurri",
+   "img": "https://i.imgur.com/omQ3LhF.jpg",
+   "content": "La historia de la palabra chimichurri: trás las invasiones inglesas en el Rio de la Plata, los gauchos escuchaban que los ingleses decían 'give me the curry' expresión que luego terminaron argentinizando dando origen al famoso chimichurri",
+   "tags": ["Palabra", "Argentina"]
+},
+{
+   "id": 26,
+   "title": "Chocolate por el datazo!",
+   "img": "https://i.imgur.com/CBpU7OK.jpg",
+   "content": "La frase “chocolate por la noticia” viene de la época colonial cuando la criada(?) le traía chismes a las dueña de casa entonces ésta le daba chocolate como premio.",
+   "tags": ["Palabra", "Argentina"]
+},
+{
+   "id": 27,
+   "title": "Toyota",
+   "img": "https://i.imgur.com/v1JQEqj.png",
+   "content": "El logo de Toyota representa una aguja e hilo porque antes la empresa se dedicaba a fabricar telares",
+   "tags": ["Historia"]
+},
+{
+   "id": 28,
+   "title": "¿Gin Tonic?",
+   "img": "https://i.imgur.com/D91IJwZ.jpg",
+   "content": "La historia del agua tónica comenzó en el siglo XVII en Perú, cuando los colonos españoles descubrieron un tratamiento para la malaria derivado de la corteza del árbol de “Quinine”. Los británicos idearon una forma de hacer que su amarga dosis diaria de quinina fuera más placentera. La combinaron con agua, azúcar, lima y a veces Gin. La mezcla era tan rica que decidieron comercializarla. Hoy en dia en cualquier agua tónica, si te fijas en los ingredientes, dice quinina.",
+   "tags": ["Historia"]
+},
+{
+   "id": 29,
+   "title": "Y de los cuernos y de la muerte...",
+   "img": "https://i.imgur.com/jThnaH2.jpg",
+   "content": "El origen de la expresión 'meter los cuernos' se remonta a la Edad Media: Cuando un señor feudal ponía en práctica el derecho de pernada (derecho que les otorgaba la potestad de hacer la chanchada con cualquier doncella esposa de uno de sus siervos) sobre la esposa de un vasallo, se colocaba en la puerta una cornamenta de ciervo. Nigunos boludos los señores feudales eh.",
+   "tags": ["Historia", "Argentina", "Palabra"]
+},
+{
+   "id": 30,
+   "title": "Feliz día!!!!!!!!!!",
+   "img": "https://i.imgur.com/jThnaH2.jpg",
+   "content": "El 11 de noviembre se celebra el 'Día del Cornudo'. Sí, este hecho del que nadie se salva, como dice el refrán, tiene su celebración y se debe, según algunas leyendas, a un pueblo italiano llamado Rocca Canterano que decidió homenajear a San Martín, obispo de Tours y patrón de todos aquellos a quien su pareja ha engañado en algún momento de sus vida. En varios lugares en donde se realiza la celebración, el que está a cargo es alguna persona elegida del pueblo al que llaman el 'cornudo del año' que simbólicamente, lleva unos enormes cuernos. A su alrededor suena música medieval y al mismo tiempo se relatan historias sobre hombres engañados amorosamente. Qué bajón ser el cornudo del año eh",
+   "tags": ["Historia", "Argentina"]
 }
 ]
