@@ -6,6 +6,8 @@
     background-color: var(--primary-bg-color);
     box-shadow: var(--primary-shadow);
     color: var(--primary-details-color);
+    z-index: 300;
+    position: relative;
 }
 .header_logoContainer {
     margin-left: 16px;

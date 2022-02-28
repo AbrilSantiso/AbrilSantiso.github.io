@@ -16,10 +16,20 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
-  background-color: var(--primary-bg-color);
+  background:#000 url(./img/stars.png) repeat top center;
   letter-spacing: 1px;
 }
+#root{
+    background:transparent url(./img/twinkling.png) repeat top center;
+    z-index:1;
+    animation: move-twink-back 300s linear infinite;
+  }
 
+  @keyframes move-twink-back {
+    from {background-position:0 0;}
+    to {background-position:-10000px 5000px;}
+}
+  
 main {
   min-height: 80vh;
   margin-bottom: 50px;
